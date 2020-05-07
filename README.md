@@ -9,7 +9,7 @@ Find the maximum value using generic algorithm
 
   -7 <= x <= 7
 
-* search
+* searching
 
   Use GA to explore the maximum value of f(x) within a given range.
 

@@ -21,6 +21,7 @@ Find the maximum value using generic algorithm
   Mutation Rate = 0.01
   
   BLUE LINE : MAX(The performance of chromosome, which achieves the highest performance in each iteration.)
+
   RED LINE : AVG(The average performance value of chromosomes that constitute population for each iteration.)
 
 ![image](https://user-images.githubusercontent.com/37270069/81318336-126a3d00-90c9-11ea-9b3e-250f44b659d6.png)

@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-Find the maximum value using generic algorithm
+Find the maximum value using genetic algorithm
 
 * target function
 
